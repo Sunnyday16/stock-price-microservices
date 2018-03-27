@@ -1,4 +1,4 @@
-# Stock Viewer Example - Part 1
+# Stock Viewer Example -
 
 In this Part, we covered the below microservices:s
 - `db-service` - For interactive with MySQL DB
