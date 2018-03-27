@@ -1,6 +1,6 @@
-# Stock Viewer Example -
+# Stock Viewer POC
 
-In this Part, we covered the below microservices:s
+ we covered the below microservices:
 - `db-service` - For interactive with MySQL DB
 - `stock-service` - For pulling Stock Price from YahooFinance API
 - `eureka-service` - Service Registry for registering all microservices
