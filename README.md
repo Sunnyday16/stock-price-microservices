@@ -5,5 +5,3 @@
 - `stock-service` - For pulling Stock Price from YahooFinance API
 - `eureka-service` - Service Registry for registering all microservices
 
-## Architecture Diagram:
-![Architecture](Architecture.png)
